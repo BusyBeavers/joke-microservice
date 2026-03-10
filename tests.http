@@ -1,0 +1,6 @@
+### Request 1: testing /random 
+POST http://localhost:5539/ HTTP/1.1
+content-type: application/json
+
+{
+}
